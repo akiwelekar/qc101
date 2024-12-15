@@ -13,10 +13,10 @@ syllabus:
     content: "Properties of Matrices for Quantum Gate, Identity, Examples of Single Input Quantum Gate: Not, X, Y, Z, Shift, Hadamard Gate .
         Two-input Quantum Gates, Swap gate, Controlled Gates"
 
-   - heading:  Quantum  Circuits and Algorithms
+  - heading:  Quantum  Circuits and Algorithms
     content: ""
 
-   - heading:  State Entaglment and Partial Measurement
+  - heading:  State Entaglment and Partial Measurement
     content: ""
 
   - heading: Grading Policy 
