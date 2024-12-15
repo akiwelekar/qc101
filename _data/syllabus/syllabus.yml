@@ -1,8 +1,7 @@
 syllabus:
-  - heading: Technology
-    content: " {The Tech you will be using} <br>
-    Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  - heading: Classical Bits versus Quantum Bits
+    content: " {A comparison  of Qubits with classical Bits} <br>
+        qubit 0 , 1, a valid superimposed states, few real time examples"
 
   - heading: Materials  
     content: " {Recommended Materials} <br>
