@@ -9,11 +9,18 @@ syllabus:
       Bra, Ket, Bra-Bra, Ket-Ket, Ket-Bra and Bra-Ket and their applications in quantum Computing
      <br>"
 
-  - heading: Single Input Quantum Gate
+  - heading:  Quantum Gates
     content: "Properties of Matrices for Quantum Gate, Identity, Examples of Single Input Quantum Gate: Not, X, Y, Z, Shift, Hadamard Gate .
         Two-input Quantum Gates, Swap gate, Controlled Gates"
 
+   - heading:  Quantum  Circuits and Algorithms
+    content: ""
+
+   - heading:  State Entaglment and Partial Measurement
+    content: ""
+
   - heading: Grading Policy 
-    content: " <ul><li>Assignments: 50% </li>
-                <li>Final Exams: 50% (20% + 30%)</li></ul>
-     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+    content: " <ul><li> Continuous Assessment : 20% </li>
+               <ul><li> Mid Sem Exam: 20% </li>
+                <li> End Sem  Exams: 60% (20% + 30%)</li></ul>
+               "
