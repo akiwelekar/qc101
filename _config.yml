@@ -2,10 +2,10 @@ title: Introduction to Qunatum Computing (QC101) # title which appears for the w
 email: awk@dbatu.ac.in #your-email@example.com
 description: > # short discription of your website. It is helpful for making your website more discoverable and appears while previewing your website.
     The introductory course on Quantum Computing for the students of Computer Science and Allied Disciplines
-baseurl: "https://github.com/akiwelekar/qc101/"   # specify the subpath of your site
+baseurl: "qc101"   # specify the subpath of your site
 url: "https://akiwelekar.github.io" # the base hostname & protocol for YOUR site, e.g. http://example.com
-twitter_username: akiwelekar#
-github_username: akiwelekar#
+twitter_username: akiwelekar #
+github_username: akiwelekar #
 theme: minima
 plugins:
   - jekyll-feed
