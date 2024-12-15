@@ -5,17 +5,33 @@ lecture:
           type: 'Slides'
           link: '../assets/slides/L1-QC.pdf'
       - resource:
-          type: 'Notes'
+          type: 'Exercises'
           link: '../assets/notes/orca.pdf'
       - resource:
-          type: 'Extra Reading'
+          type: 'Video'
           link: '#'
-  - lec: 'Lecture 2: Topic Name2'
+  - lec: 'Lecture 2: Bracket Notations (Part I)'
     resources:
       - resource:
-          type: 'Notes'
+          type: 'Slides'
+          link: '../assets/notes/L2-QC.pdf'
+      - resource:
+          type: 'Exercises'
           link: '../assets/notes/orca.pdf'
-  - lec: 'Lecture 3: Topic Name3'
+      - resource:
+          type: 'Video'
+          link: '#'
+  - lec: 'Lecture 3: Bracket Notations (Part II)'
+    resources:
+      - resource:
+          type: 'Slides'
+          link: '../assets/notes/L3-QC.pdf'
+      - resource:
+          type: 'Exercises'
+          link: '../assets/notes/orca.pdf'
+      - resource:
+          type: 'Video'
+          link: '#'- lec: 'Lecture 3: Topic Name3'
     resources:
       - resource:
           type: 'Extra Reading'
