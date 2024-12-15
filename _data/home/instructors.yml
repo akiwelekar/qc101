@@ -1,12 +1,8 @@
 instructor:
-- name: Alpha Beta
-  github: https://github.com/atharva-chandak #instrucor's github link
-  email: intructor@gmail.com 
+- name: Arvind W Kiwelekar
+  github: https://github.com/akiwelekar #instrucor's github link
+  email: awk@dbatu.ac.in
   img: assets/instructor.svg
-  consultation: 'Sat 6:30 - 7:30pm, 6116A'
+  consultation: 'Monday 10:30 - 11:30am, HoD Cabin'
 
-- name: Gamma Delta
-  github: https://github.com/atharva-chandak 
-  email: intructor@gmail.com 
-  img: assets/instructor.svg
-  consultation: 'Mon 6:30 - 7:30pm, 6116B'
+ 
