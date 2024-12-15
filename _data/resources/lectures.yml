@@ -32,9 +32,45 @@ lecture:
       - resource:
           type: 'Video'
           link: '#'
+    
+  - lec: 'Lecture 4: Quantum Gates Single Input'
+    resources:
+      - resource:
+          type: 'Slides'
+          link: '../assets/slides/L4-QC.pdf'
+      - resource:
+          type: 'Exercises'
+          link: '../assets/notes/orca.pdf'
+      - resource:
+          type: 'Video'
+          link: '#'
           
+  - lec: 'Lecture 5: Quantum Circuits Simple Example'
+    resources:
+      - resource:
+          type: 'Slides'
+          link: '../assets/slides/L5-QC.pdf'
+      - resource:
+          type: 'Exercises'
+          link: '../assets/notes/orca.pdf'
+      - resource:
+          type: 'Video'
+          link: '#' 
           
-  - lec: 'Lecture 3: Topic Name3'
+  - lec: 'Lecture 6: Two input Quantum Gates'
+    resources:
+      - resource:
+          type: 'Slides'
+          link: '../assets/slides/L6-QC.pdf'
+      - resource:
+          type: 'Exercises'
+          link: '../assets/notes/orca.pdf'
+      - resource:
+          type: 'Video'
+          link: '#'  
+
+          
+  - lec: 'Lecture 7: Topic Name3'
     resources:
       - resource:
           type: 'Extra Reading'
@@ -42,7 +78,7 @@ lecture:
       - resource:
           type: 'Video Lecture'
           link: '#'
-  - lec: 'Lecture 4: Topic Name4'
+  - lec: 'Lecture 8: Topic Name4'
     resources:
       - resource:
           type: 'Video Lecture'
