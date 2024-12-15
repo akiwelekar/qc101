@@ -14,7 +14,7 @@ lecture:
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/notes/L2-QC.pdf'
+          link: '../assets/slides/L2-QC.pdf'
       - resource:
           type: 'Exercises'
           link: '../assets/notes/orca.pdf'
@@ -25,7 +25,7 @@ lecture:
     resources:
       - resource:
           type: 'Slides'
-          link: '../assets/notes/L3-QC.pdf'
+          link: '../assets/slides/L3-QC.pdf'
       - resource:
           type: 'Exercises'
           link: '../assets/notes/orca.pdf'
