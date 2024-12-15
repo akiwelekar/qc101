@@ -1,7 +1,8 @@
 syllabus:
   - heading: Classical Bits versus Quantum Bits
     content: " {A comparison  of Qubits with classical Bits} <br>
-        qubit 0 , 1, a valid superimposed states, few real time examples"
+        qubit 0, 1, a valid superimposed state, few real time examples, block sphere representation
+        state measurement, global and relative phase. A review of complex numbers, vector space, Hilbert Space, Linear Algebra"
 
   - heading: Materials  
     content: " {Recommended Materials} <br>
