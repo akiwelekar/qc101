@@ -31,7 +31,10 @@ lecture:
           link: '../assets/notes/orca.pdf'
       - resource:
           type: 'Video'
-          link: '#'- lec: 'Lecture 3: Topic Name3'
+          link: '#'
+          
+          
+  - lec: 'Lecture 3: Topic Name3'
     resources:
       - resource:
           type: 'Extra Reading'
