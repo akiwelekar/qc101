@@ -1,19 +1,12 @@
 syllabus:
   - heading: Classical Bits versus Quantum Bits
     content: " {A comparison  of Qubits with classical Bits} <br>
-        qubit 0, 1, a valid superimposed state, few real time examples, block sphere representation
-        state measurement, global and relative phase. A review of complex numbers, vector space, Hilbert Space, Linear Algebra"
+        qubit 0, 1, a valid superimposed state, a few real-time examples, block sphere representation
+        state measurement, global and relative phase. A review of complex numbers, vector space, Hilbert Space, Linear Algebra."
 
-  - heading: Materials  
-    content: " {Recommended Materials} <br>
-      Massa ultricies mi quis hendrerit dolor. At tempor commodo ullamcorper a lacus vestibulum sed.
-      Arcu non sodales neque sodales ut etiam sit amet. Morbi quis commodo odio aenean. 
-      Enim nulla aliquet porttitor lacus luctus accumsan.     <br><br>
-     <h3>Homeworks</h3>
-     There will be regular homeworks after lectures. 
-     <br>    
-     <h3>Slides</h3>
-     We will post slides on the course website after each lecture.
+  - heading: Bracket Notations  
+    content: " {Six Different Forms of Bracket Notations} <br>
+      Bra, Ket, Bra-Bra, Ket-Ket, Ket-Bra and Bra-Ket and their applications in quantum Computing
      <br>"
 
   - heading: Late Policy  
