@@ -19,7 +19,7 @@ footer_content:
     - subtab: "Class and Time"
       sub_link: "schedule#Class Time & Location"
     - subtab: "Your Grade"
-      link: '../assets/Grade.pdf'
+      link: 'https://github.com/akiwelekar/qc101/blob/master/assets/Grade.pdf'
 
   - tabname: "Syllabus"
     link: "syllabus"
