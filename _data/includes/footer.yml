@@ -21,6 +21,9 @@ footer_content:
 
   - tabname: "Syllabus"
     link: "syllabus"
+    subtopic:
+    - Subtab: "Your Grades"
+      link: https://arxiv.org/pdf/2010.15559
 
   - tabname: "Resources"
     link: "resources"
