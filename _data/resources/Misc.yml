@@ -1,5 +1,7 @@
 misc:
-  - topic: Link 1
-    link: http://example.com/res1/path
-  - topic: Link 2
-    link: http://example.com/res2/path  
+  - topic: An Introduction to Quantum Computing for Non-Physicists
+    link: https://dl.acm.org/doi/pdf/10.1145/367701.367709
+  - topic: Quantum Algorithm Implementations for Beginners
+    link: https://arxiv.org/pdf/1804.03719
+  - topic: Quantum Computing: A Taxonomy, Systematic Review and Future Directions
+    link: https://arxiv.org/pdf/2010.15559  
