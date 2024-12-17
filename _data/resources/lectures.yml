@@ -9,7 +9,7 @@ lecture:
           link: '../assets/notes/orca.pdf'
       - resource:
           type: 'Video'
-          link: '#'
+          link: 'https://www.youtube.com/watch?v=sihXO8f2GPg'
   - lec: 'Lecture 2: Bracket Notations (Part I)'
     resources:
       - resource:
