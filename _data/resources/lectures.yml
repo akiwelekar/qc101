@@ -1,5 +1,5 @@
 lecture:
-  - lec: 'Lecture 1: Quantum Computing Introduction' #edit Topic Name
+  - lec: 'Lecture 1: What is Quantun Bit' #edit Topic Name
     resources:
       - resource:
           type: 'Slides'
