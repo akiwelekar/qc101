@@ -20,7 +20,7 @@ lecture:
           link: '../assets/notes/orca.pdf'
       - resource:
           type: 'Video'
-          link: '#'
+          link: 'https://www.youtube.com/watch?v=Uxlh8OAAySU'
   - lec: 'Lecture 3: Bracket Notations (Part II)'
     resources:
       - resource:
@@ -31,7 +31,7 @@ lecture:
           link: '../assets/notes/orca.pdf'
       - resource:
           type: 'Video'
-          link: '#'
+          link: 'https://www.youtube.com/watch?v=zbBgoFTdpEQ'
     
   - lec: 'Lecture 4: Quantum Gates Single Input'
     resources:
