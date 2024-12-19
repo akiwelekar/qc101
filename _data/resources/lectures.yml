@@ -42,8 +42,8 @@ lecture:
           type: 'Exercises'
           link: '../assets/notes/orca.pdf'
       - resource:
-          type: 'Video'
-          link: '#'
+          type: 'Video (Pauli X Gate)'
+          link: 'https://www.youtube.com/watch?v=5IlPbLqYaNI'
           
   - lec: 'Lecture 5: Quantum Circuits Simple Example'
     resources:
@@ -67,22 +67,7 @@ lecture:
           link: '../assets/notes/orca.pdf'
       - resource:
           type: 'Video'
-          link: 'https://youtu.be/ESqC83PM5Dc'  
-
-          
-  - lec: 'Lecture 7: Topic Name3'
-    resources:
-      - resource:
-          type: 'Extra Reading'
-          link: '#'
-      - resource:
-          type: 'Video Lecture'
-          link: '#'
-  - lec: 'Lecture 8: Topic Name4'
-    resources:
-      - resource:
-          type: 'Video Lecture'
-          link: '#'
+          link: 'https://youtu.be/ESqC83PM5Dc'            
   
 # - lec: 'Lecture 5: Topic Name5'
 #   resources:
