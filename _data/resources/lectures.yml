@@ -6,7 +6,7 @@ lecture:
           link: '../assets/slides/L1-QC.pdf'
       - resource:
           type: 'Exercises'
-          link: '../assets/notes/orca.pdf'
+          link: '../assets/qc_assignments.pdf'
       - resource:
           type: 'Video'
           link: 'https://www.youtube.com/watch?v=sihXO8f2GPg'
